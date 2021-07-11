@@ -1,0 +1,5 @@
+repositories:
+  dep/iceoryx:
+    type: git
+    url: https://github.com/eclipse-iceoryx/iceoryx.git
+    version: master
